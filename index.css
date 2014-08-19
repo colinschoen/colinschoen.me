@@ -5,3 +5,7 @@ video#bgvid {
     background: url(bg.png) no-repeat;
     background-size: cover;
 }
+div.header-bg {
+    background-color: #000000;
+    height: 40px;
+}
